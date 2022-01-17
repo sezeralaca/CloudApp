@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810184083194",
+    "project_id": "logintest-falan",
+    "storage_bucket": "logintest-falan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810184083194:android:8e77635fe22adeb65d2b43",
+        "android_client_info": {
+          "package_name": "com.falanboyle.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810184083194-d6nj6hamu1lg9l8h4380ubcjsaqj80bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTEvxO_Rbxl9YBslEJrxcAM7kOd-dB-rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810184083194-d6nj6hamu1lg9l8h4380ubcjsaqj80bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
