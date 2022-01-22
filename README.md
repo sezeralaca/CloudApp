@@ -56,7 +56,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Cloud App Screen Shot][login]]
+[Cloud App Screen Shots]
+[login]
+[register] 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -185,11 +187,11 @@ Project Link: [https://github.com/isteneyseartik/CloudApp](https://github.com/is
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[downloadscreen]: assets/ss/DownloadScreen.png
-[image_page]: assets/ss/image-page.png
-[login]: assets/ss/Login.png
-[register]: assets/ss/Register.png
-[upload]: assets/ss/UploadFile.png
+[downloadscreen]: images/DownloadScreen.png
+[image_page]: images/image-page.png
+[login]: images/Login.png
+[register]: images/Register.png
+[upload]: images/UploadFile.png
 
 
 
