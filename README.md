@@ -34,16 +34,21 @@ Project Link: [https://github.com/isteneyseartik/CloudApp](https://github.com/is
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  
+  <ol>
     <li>
-      <a href="#about-the-project">About The Project</a><br />
-      <a href="#built-with">Built With</a><br />
-      <a href="#usage">Usage</a><br />
-      <a href="#roadmap">Roadmap</a><br />
-      <a href="#contributing">Contributing</a><br />
-      <a href="#contact">Contact</a><br />
+      <a href="#about-the-project">About The Project</a><br /></li>
+    <li>
+      <a href="#built-with">Built With</a><br /></li>
+    <li>
+      <a href="#usage">Usage</a><br /></li>
+    <li>
+      <a href="#roadmap">Roadmap</a><br /></li>
+    <li>
+      <a href="#contributing">Contributing</a><br /></li>
+    <li>
+      <a href="#contact">Contact</a><br /></li>
     </li>
- 
+ </ol>
 </details>
 
 
