@@ -62,8 +62,7 @@ Project Link: [https://github.com/isteneyseartik/CloudApp](https://github.com/is
 <!-- ABOUT THE PROJECT -->
 ## In App Images
 Login Screen
-
-![alt text](https://github.com/isteneyseartik/CloudApp/blob/main/images/Login.PNG?raw=true| width=100)
+<img src="https://github.com/isteneyseartik/CloudApp/blob/main/images/Login.PNG?raw=true" alt="alt text" width="100">
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
