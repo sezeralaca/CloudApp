@@ -45,9 +45,7 @@ Project Link: [https://github.com/isteneyseartik/CloudApp](https://github.com/is
       <a href="#roadmap">Roadmap</a><br /></li>
     <li>
       <a href="#contributing">Contributing</a><br /></li>
-    <li>
-      <a href="#contact">Contact</a><br /></li>
-    </li>
+    
  </ol>
 </details>
 
