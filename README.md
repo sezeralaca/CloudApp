@@ -54,12 +54,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## In App Images
+![alt text](https://github.com/isteneyseartik/CloudApp/blob/main/images/DownloadScreen.PNG?raw=true)
 
-[Cloud App Screen Shots]
-[login]
-[register] 
-![Alt text](images/login.png?raw=true "Title")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
