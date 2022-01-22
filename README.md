@@ -23,6 +23,13 @@
   </p>
 </div>
 
+## Contact
+
+Falan Böyle Company - [@falanboylecompany](https://instagram.com/falanboylecompany) - falanboylecompany@gmail.com
+
+Project Link: [https://github.com/isteneyseartik/CloudApp](https://github.com/isteneyseartik/CloudApp)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -56,6 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## In App Images
 Login Screen
+
 ![alt text](https://github.com/isteneyseartik/CloudApp/blob/main/images/Login.PNG?raw=true)
 
 
@@ -124,19 +132,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - falanboylecompany@gmail.com
-
-Project Link: [https://github.com/isteneyseartik/CloudApp](https://github.com/isteneyseartik/CloudApp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
