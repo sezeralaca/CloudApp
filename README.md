@@ -26,6 +26,9 @@
 ## Contact
 
 Falan Böyle Company - [@falanboylecompany](https://instagram.com/falanboylecompany) - falanboylecompany@gmail.com
+Ahmet Sezer Alaca - [Linkedin](https://linkedin.com/in/sezeralaca)
+Ahmet Kürşat Demirdelen - [Linkedin](https://linkedin.com/in/kürşat-demirdelen-899b5b218)
+
 
 Project Link: [https://github.com/isteneyseartik/CloudApp](https://github.com/isteneyseartik/CloudApp)
 
