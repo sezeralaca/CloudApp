@@ -62,7 +62,29 @@ Project Link: [https://github.com/isteneyseartik/CloudApp](https://github.com/is
 <!-- ABOUT THE PROJECT -->
 ## In App Images
 Login Screen
-<img src="https://github.com/isteneyseartik/CloudApp/blob/main/images/Login.PNG?raw=true" alt="alt text" width="100">
+
+<img src="https://github.com/isteneyseartik/CloudApp/blob/main/images/Login.PNG" alt="Login" width="250">
+
+Register Screen
+
+<img src="https://github.com/isteneyseartik/CloudApp/blob/main/images/Register.PNG" alt="Register" width="250">
+
+Download Screen
+
+<img src="https://github.com/isteneyseartik/CloudApp/blob/main/images/DownloadScreen.PNG" alt="alt text" width="250">
+
+Upload File
+
+<img src="https://github.com/isteneyseartik/CloudApp/blob/main/images/Upload%20File.PNG" alt="alt text" width="250">
+
+Image Screen
+
+<img src="https://github.com/isteneyseartik/CloudApp/blob/main/images/image_page.PNG" alt="alt text" width="250">
+
+Download Screen
+
+<img src="https://github.com/isteneyseartik/CloudApp/blob/main/images/DownloadScreen.PNG" alt="alt text" width="250">
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
