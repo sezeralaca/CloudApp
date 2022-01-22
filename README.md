@@ -29,7 +29,6 @@ Falan Böyle Company - [@falanboylecompany](https://instagram.com/falanboylecomp
 
 Project Link: [https://github.com/isteneyseartik/CloudApp](https://github.com/isteneyseartik/CloudApp)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -64,7 +63,7 @@ Project Link: [https://github.com/isteneyseartik/CloudApp](https://github.com/is
 ## In App Images
 Login Screen
 
-![alt text](https://github.com/isteneyseartik/CloudApp/blob/main/images/Login.PNG?raw=true)
+![alt text](https://github.com/isteneyseartik/CloudApp/blob/main/images/Login.PNG?raw=true| width=100)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
