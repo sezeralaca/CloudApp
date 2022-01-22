@@ -59,8 +59,7 @@
 [Cloud App Screen Shots]
 [login]
 [register] 
-![alt text](https://github.com/isteneyseartik/cloudapp/blob/main/images/login.png?raw=true)
-
+![Alt text](images/login.png?raw=true "Title")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
