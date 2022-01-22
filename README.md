@@ -34,7 +34,7 @@ Project Link: [https://github.com/isteneyseartik/CloudApp](https://github.com/is
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ol>
+  
     <li>
       <a href="#about-the-project">About The Project</a><br />
       <a href="#built-with">Built With</a><br />
@@ -43,7 +43,7 @@ Project Link: [https://github.com/isteneyseartik/CloudApp](https://github.com/is
       <a href="#contributing">Contributing</a><br />
       <a href="#contact">Contact</a><br />
     </li>
-  </ol>
+ 
 </details>
 
 
