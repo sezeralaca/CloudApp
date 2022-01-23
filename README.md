@@ -97,7 +97,7 @@ Image Screen
 
 
 ### Installation
-
+If you want to use it as your own project:
 1. Download this repo
 2. Create your Firebase account
 3. Create new Firebase project
@@ -105,6 +105,7 @@ Image Screen
 5. Paste it to "android/app" 
 6. run "flutter pub get"
 7. Everything is good to go!
+Or just install the APK file and you are good to go!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
