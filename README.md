@@ -17,6 +17,8 @@
   <p align="center">
     Simple and Secure Cloud Storage App Made With Flutter and Firebase
     <br />
+    <a href="https://www.youtube.com/watch?v=bTE-NIwZFb8">Demo & Instructions</a>
+    ·
     <a href="https://github.com/isteneyseartik/CloudApp/issues">Report Bug</a>
     ·
     <a href="https://github.com/isteneyseartik/CloudApp/issues">Request Feature</a>
