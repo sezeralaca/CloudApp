@@ -104,7 +104,7 @@ If you want to use it as your own project:
 4. Download "google-services.json" file
 5. Paste it to "android/app" 
 6. run "flutter pub get"
-7. Everything is good to go!
+7. Everything is good to go! <br />
 Or just install the APK file and you are good to go!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
